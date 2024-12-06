@@ -1,6 +1,6 @@
 # Innocent Rogue
 ## Story hook
-You're a man of the court.  A knight of the halls of the King, and you have been incorrectly accused and convicted of treason.  Your sentence?  Banishment to the maze of eternity.  So named, because in all the time it has existed, anyone sent there will stay there for all eternity.
+You're a man of the court.  A knight of the halls of the King, and you have been incorrectly accused and convicted of treason.  Your sentence?  Banishment to the maze of eternity.  So named, because in all the time it has existed, anyone sent there is expected to stay there for all eternity.
 
 Your plan?  To escape, find out who framed you, and clear your name!
 
